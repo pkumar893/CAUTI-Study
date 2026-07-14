@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-14T15:11:03Z",
+  "_captured_run_id": "r_6c91a6d8d52c4a70a2d186f1fa2d6190",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote table4 (5 rows, 23 columns).",
+    "NOTE: PROC FREQ statement used.",
+    "NOTE: PROC MEANS statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

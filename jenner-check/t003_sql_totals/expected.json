@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-14T15:08:37Z",
+  "_captured_run_id": "r_44e7ae6e521e4a86b46c829b0ccbc68a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table consec_foleys_new_id created.",
+    "NOTE: Wrote table13 (5 rows, 15 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
