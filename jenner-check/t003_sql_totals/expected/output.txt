@@ -1,0 +1,9 @@
+
+  Obs  new_id  consec_foley  tot_meatal_denom  tot_meatal_numer  tot_meatal  tot_chg  Tot_Foley_UC_Collected
+-----  ------  ------------  ----------------  ----------------  ----------  -------  ----------------------
+    1       1             1                 6                 5          83       88                       3
+    2       1             1                 6                 5          83       88                       3
+    3       2             1                 5                 4          80      100                       3
+    4       2             2                 2                 1          50      100                       1
+    5       3             1                 3                 1          33       67                       0
+

@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_sql_totals",
+  "source_file": "cauti 04_19_2024.sas",
+  "source_blob_sha": "c21ef7cde6443d0babd99d2d9c56af254c41b97b",
+  "source_commit": "e867d180366609fd21942a39aaf5641fe09063fc",
+  "notes": "PROC SQL grouped-sum remerge builds per-episode meatal/CHG numerator and denominator totals without collapsing detail rows, then a DATA step turns them into rounded percentages. Mock 5-row per-foley table."
+}

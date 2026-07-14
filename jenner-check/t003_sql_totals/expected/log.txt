@@ -1,0 +1,27 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA table9
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote table9 (5 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table consec_foleys_new_id created.
+NOTE: PROC SQL statement used.
+NOTE: DATA table13
+
+
+NOTE: Read 5 rows from consec_foleys_new_id.
+NOTE: Wrote table13 (5 rows, 15 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=table13
+
+NOTE: PROC PRINT completed: 5 observations printed, 7 variables

@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_consec_foley",
+  "source_file": "cauti 04_19_2024.sas",
+  "source_blob_sha": "c21ef7cde6443d0babd99d2d9c56af254c41b97b",
+  "source_commit": "e867d180366609fd21942a39aaf5641fe09063fc",
+  "notes": "Within-admission foley bookkeeping: first./retain catheter count, LAG+INTCK gap between removal and next placement, and a consecutive-episode counter that advances when the gap exceeds a day. Mock 6-row episode table."
+}
